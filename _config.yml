@@ -79,4 +79,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:Xmagic/Xmagic.github.io.git
-  branch: master
+  branch: gh-pages
